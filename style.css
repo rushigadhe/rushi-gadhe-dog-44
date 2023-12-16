@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Inter;
+}
+#B1{
+    margin: 20px;
+    padding: 20px;
+    color: black;
+    font-size: 32px;
+    font-family: Inter;
+    font-weight: 400;
+    word-wrap: break-word
+}
+a{
+    text-decoration:underline;
+     color: black; 
+     padding: 40px;
+     font-size: 32px;
+     font-family: Inter;
+     font-weight: 400;
+
+}
+#B2{
+    margin: 20px;
+    padding: 20px;
+    
+}
+#B3{
+    margin: 20px;
+    padding: 20px;
+    color: black;
+font-size: 64px;
+font-family: Inter;
+font-weight: 700;
+/* text-decoration: underline; */
+word-wrap: break-word;
+color: black;
+font-size: 20px;
+font-family: Inter;
+font-weight: 200;
+word-wrap: break-word
+}
